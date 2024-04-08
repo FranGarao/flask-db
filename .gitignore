@@ -1,0 +1,30 @@
+# .gitignore
+
+# Directorio del entorno virtual
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de configuración local
+*.cfg
+*.ini
+
+# Archivos de la base de datos
+*.sqlite
+
+# Directorios de logs
+logs/
+
+# Archivos .env con variables de entorno
+
+# Archivos de PyCharm
+.idea/
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos de macOS
+.DS_Store
